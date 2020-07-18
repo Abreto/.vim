@@ -1,0 +1,9 @@
+[submodule "pack/tabnine-vim"]
+	path = pack/tabnine-vim
+	url = https://github.com/zxqfl/tabnine-vim
+[submodule "pack/vendor/start/nerdtree"]
+	path = pack/vendor/start/nerdtree
+	url = https://github.com/preservim/nerdtree.git
+[submodule "pack/vendor/start/nerdtree-git-plugin"]
+	path = pack/vendor/start/nerdtree-git-plugin
+	url = https://github.com/Xuyuanp/nerdtree-git-plugin.git
