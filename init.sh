@@ -1,5 +1,7 @@
 #!/usr/bin/env sh
 
+set -x
+
 ### Copy .vimrc to HOME folder ###
 ln -s ~/.vim/.vimrc ~/.vimrc
 
