@@ -1,3 +1,4 @@
+syntax on
 
 map f :NERDTreeToggle<CR>
 
