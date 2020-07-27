@@ -19,8 +19,8 @@ set shiftwidth=4
 " On pressing tab, insert 4 spaces
 set expandtab
 
-" use t to toggle NERDTree
-map t :NERDTreeToggle<CR>
+" use f to toggle NERDTree
+map f :NERDTreeToggle<CR>
 
 " load plugin TabNine
 set rtp+=~/.vim/pack/tabnine-vim
