@@ -23,4 +23,4 @@ set expandtab
 map f :NERDTreeToggle<CR>
 
 " load plugin TabNine
-set rtp+=~/.vim/pack/tabnine-vim
+" set rtp+=~/.vim/pack/tabnine-vim
