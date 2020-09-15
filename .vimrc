@@ -24,3 +24,9 @@ map f :NERDTreeToggle<CR>
 
 " load plugin TabNine
 " set rtp+=~/.vim/pack/tabnine-vim
+
+" esc in insert mode
+inoremap kj <esc>
+
+" esc in command mode
+cnoremap kj <C-C>
