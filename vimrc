@@ -23,6 +23,7 @@ set expandtab
 map f :NERDTreeToggle<CR>
 
 " load plugin TabNine
+set encoding=utf-8
 " set rtp+=~/.vim/pack/tabnine-vim
 
 " esc in insert mode
