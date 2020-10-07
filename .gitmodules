@@ -1,6 +1,7 @@
 [submodule "pack/tabnine-vim"]
 	path = pack/tabnine-vim
 	url = https://github.com/zxqfl/tabnine-vim
+	shallow = true
 [submodule "pack/vendor/start/nerdtree"]
 	path = pack/vendor/start/nerdtree
 	url = https://github.com/preservim/nerdtree.git
