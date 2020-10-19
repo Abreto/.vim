@@ -10,7 +10,7 @@ set autoindent
 set number
 
 " highlight matching search strings
-set hlsearch
+set hlsearch incsearch
 
 " show existing tab with 4 spaces width
 set tabstop=4
