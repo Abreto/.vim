@@ -6,8 +6,11 @@ syntax on
 " enable autoindent
 set autoindent
 
-" show line numbers
-set number
+" show line numbers (relative)
+set number relativenumber
+
+" show cursorline
+set cursorline
 
 " highlight matching search strings
 set hlsearch incsearch
